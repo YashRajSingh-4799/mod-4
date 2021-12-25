@@ -1,5 +1,5 @@
 (function (window) {
-    var names = ["Aman", "John", "Jyotika", "Jimmy", "Parth", "Saqib", "Aniket", "Sumit", "Ajay", "Yash","Raj","Harjot"];
+    var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
   
     for (var i in names) {
       var firstLetter = names[i].charAt(0).toLowerCase();
